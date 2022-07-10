@@ -31,4 +31,4 @@ finally:
             print(name, " , pay attention you're in the obese range your BMI : ",
                 calc_BMI)
     else:
-        print(name, " , Please enter correct Information")
+        print(name, " Please enter correct Information")

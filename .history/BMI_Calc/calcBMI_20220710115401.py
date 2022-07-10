@@ -25,10 +25,10 @@ finally:
             print(name, " , congratulation you're in the healthy weight range your BMI : ",
                 calc_BMI)
         elif (calc_BMI > 25 and calc_BMI < 30):
-            print(name, " , pay attention you're in the overweight range your BMI : ",
+            print(name, "pay attention you're in the overweight range your BMI : ",
                 calc_BMI)
         else:
-            print(name, " , pay attention you're in the obese range your BMI : ",
+            print(name, "pay attention you're in the obese range your BMI : ",
                 calc_BMI)
     else:
-        print(name, " , Please enter correct Information")
+        print(name, " Please enter correct Information")
